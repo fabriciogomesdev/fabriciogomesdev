@@ -1,6 +1,7 @@
-## Hi there 👋
+## Olá 👋
 
-I'm a front-end developer with a strong focus on React and TypeScript. I’m passionate about creating innovative solutions to everyday challenges through programming. I find it fascinating how ideas can be expressed and brought to life through code, turning creativity into functionality.
+Sou desenvolvedor de software com experiência em React, TypeScript e Spring Boot. Estou sempre em busca de novas tecnologias e metodologias para aplicar em soluções práticas e eficientes no dia a dia.
 
-Let's build something amazing together! 🚀
+Tenho facilidade para trabalhar em equipe, valorizando organização, foco e a colaboração para alcançar objetivos comuns.
 
+Sinta-se à vontade para entrar em contato caso queira conversar sobre tecnologia. A troca de conhecimento é sempre bem-vinda. 🚀
